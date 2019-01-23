@@ -75,3 +75,5 @@ const newForce = {
 
 Lightning Exercise 1: Output the names of the instructors to the console.
 Lightning Exercise 2: Output the names of the career advisors to the console.
+
+
